@@ -2,6 +2,8 @@
 
 
 # How to Use
+Change the "DEVICE_ID" and "DEVICE_TYPE" in switch_control.py and run -
+
 ```
 $ python3 switch_control.py on
 Boiler Switch Turned On.
