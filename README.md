@@ -11,8 +11,9 @@ Boiler Switch Turned On.
 $ python3 switch_control.py off
 Boiler Switch Turned Off.
 ```
-
-![gif](./assets/images/gif.gif)
+<p align="center">
+<img src="./assets/images/gif.gif" alt="gif"/>
+</p>
 
 # Introduction  
 The Lanbon WiFi boiler switch is a device that allows users to turn their boiler on or off, and check the status of their boiler. 
